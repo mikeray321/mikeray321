@@ -1,4 +1,4 @@
-Linux Systems Administrator
+Linux Systems {Administrator, Engineer, Devops, Platforms}
 
 🐧 Managing 500+ nodes with Ansible & Terraform.
 🛠️ Focused on security hardening (CIS Benchmarks) and observability (Grafana/Prometheus).
